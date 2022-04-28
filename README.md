@@ -1,20 +1,5 @@
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=alextole2&show_icons=true&theme=default" /> <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextole2&langs_count=10&layout=compact" />
 
-### Certifications
-
-<a href="https://github.com/alextole2">
-  <img height="180em" width="180em" alt="CSD" align="center" src="https://bcert.me/bc/html/img/badges/generated/badge-7230.png" />
-</a>
-<a href="https://github.com/alextole2">
-  <img height="150" width="180" alt="A-CSD" align="center" src="https://bcert.me/bc/html/img/badges/generated/badge-10712.png" />
-</a>
-<a href="https://github.com/alextole2">
-  <img height="180em" width="180em" alt="CSM" align="center" src="https://bcert.me/bc/html/img/badges/generated/badge-7227.png" />
-</a>
-<a href="https://github.com/alextole2">
-  <img height="150em" width="150em" alt="SFPC" align="center" src="https://images.credly.com/size/340x340/images/c2ddc533-ba6c-464d-a69d-f9f28177176b/CertiProf-Badge-SFPC.png" />
-</a>
-
 ### Programming languages
 
 <img height="30" width="40" alt="C" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" /> <img height="30" width="40" alt="C++" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" /> <img height="30" width="40" alt="Java" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" /> <img height="30" width="40" alt="JavaScript" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /> <img height="30" width="40" alt="TypeScript" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" /> <img height="30" width="40" alt="Php" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" /> <img height="30" width="40" alt="Python" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" /> <img height="30" width="40" alt="Kotlin" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg" />
