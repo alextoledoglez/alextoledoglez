@@ -1,4 +1,4 @@
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=alextoledoglez&show_icons=true&theme=default" /> <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextoledoglez&langs_count=10&layout=compact" />
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=alextoledoglez&count_private=true&show_icons=true&theme=default" /> <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextoledoglez&langs_count=10&layout=compact" />
 
 ### Programming languages
 
